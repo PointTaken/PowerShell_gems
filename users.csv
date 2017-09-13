@@ -1,0 +1,8 @@
+DisplayName,FirstName,LastName,UserPrincipalName,Department,PassWord,UsageLocation,LicenseAssignment
+Agent Jønes,Agent,Jønes,jones@edupoint.no,WireSaw,Passw0rd2017,US,aspc2017:ENTERPRISEPREMIUM
+Agent Smith,Agent,Smith,smith@edupoint.no,WireSaw,Passw0rd2018,GB,aspc2017:ENTERPRISEPREMIUM
+Agent Brown,Agent,Brown,brown@edupoint.no,WireSaw,Passw0rd2019,US,aspc2017:ENTERPRISEPREMIUM
+Thomas A Anderson,Thomas,Anderson,thomas@edupoint.no,ElectroPlate,Passw0rd2020,GB,aspc2017:ENTERPRISEPREMIUM
+Trinity,Trinity,Trinity,trinity@edupoint.no,ElectroPlate,Passw0rd2021,NO,aspc2017:ENTERPRISEPREMIUM
+Morpheus,Morpheus,Morpheus,morpheus@edupoint.no,ElectroPlate,Passw0rd2022,NO,aspc2017:ENTERPRISEPREMIUM
+Cypher,Cypher,Cypher,cypher@edupoint.no,ElectroPlate,Passw0rd2023,NO,aspc2017:ENTERPRISEPREMIUM
